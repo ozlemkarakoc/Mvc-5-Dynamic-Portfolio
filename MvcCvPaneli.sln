@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33920.266
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcCvPaneli", "MvcCvPaneli\MvcCvPaneli.csproj", "{044C1A52-50ED-49B9-9029-CFFA461FDE37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{044C1A52-50ED-49B9-9029-CFFA461FDE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044C1A52-50ED-49B9-9029-CFFA461FDE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044C1A52-50ED-49B9-9029-CFFA461FDE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044C1A52-50ED-49B9-9029-CFFA461FDE37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D4873B0-E7B1-462A-9574-A3BCEFBC7656}
+	EndGlobalSection
+EndGlobal
