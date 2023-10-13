@@ -1,8 +1,8 @@
 # Mvc-5-Dynamic-Portfolio
-Tecnologies
-Asp net Mvc5
-Db First
-Entity FrameWork
+Tecnologies: 
+Asp net Mvc5-
+Db First-
+Entity FrameWork-
 Sql Server
 ![1](https://github.com/ozlemkarakoc/Mvc-5-Dynamic-Portfolio/assets/59397710/e66c2e96-a3d5-4ad5-ab51-5dd60a4710d8)
 ![22](https://github.com/ozlemkarakoc/Mvc-5-Dynamic-Portfolio/assets/59397710/e72422c8-4aeb-47f5-9b61-c9400e86e85f)
