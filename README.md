@@ -1,5 +1,9 @@
 # Mvc-5-Dynamic-Portfolio
-Asp.Net MVC5 CV Project with DbFirst Entity Framework and MsSql Database
+Tecnologies
+Asp net Mvc5
+Db First
+Entity FrameWork
+Sql Server
 ![1](https://github.com/ozlemkarakoc/Mvc-5-Dynamic-Portfolio/assets/59397710/e66c2e96-a3d5-4ad5-ab51-5dd60a4710d8)
 ![22](https://github.com/ozlemkarakoc/Mvc-5-Dynamic-Portfolio/assets/59397710/e72422c8-4aeb-47f5-9b61-c9400e86e85f)
 ![2](https://github.com/ozlemkarakoc/Mvc-5-Dynamic-Portfolio/assets/59397710/0ee02b47-9fce-471f-9ea4-7c6f0778b9cf)
