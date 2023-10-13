@@ -1,4 +1,7 @@
 # Mvc-5-Dynamic-Portfolio
+AspNet Mvc5 ile dinamik bir şekilde Hakkımda, Eğitim Bilgileri, Sertifika, Yetenekler ve İletişim Bilgileri başta olmak üzere sürecin tüm aşamalarını barındırmaktadır.
+Proje standart bir portfolio sayfalarının aksine dinamik bir yapıda güncel bir kişisel web uygulaması sunmaktadır. Her bir menü kendi içinde özelleşmiş olup sade ve net bilgi vermeyi amaçlamıştır.
+Tüm sidebar içeriğinde CRUD işlemleri tamamıyla yapılmış olup yapılan her bir değişiklik veri tabanına yansıtılmıştır.
 Tecnologies: 
 Asp net Mvc5-
 Db First-
